@@ -9,6 +9,8 @@ django = "*"
 django-cors-headers = "*"
 pytz = "*"
 coreapi = "*"
+drf-yasg = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 
